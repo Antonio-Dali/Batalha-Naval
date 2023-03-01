@@ -1,5 +1,5 @@
 # Batalha-Naval
-Um primeiro programa em C
+/* Um primeiro programa em C, o exericio consiste em criar um prototipo de Jogo de Batalha Naval seguindo um mapa fornecido por um arquivo externo
 
 #include<stdio.h>
 #include<stdlib.h>
