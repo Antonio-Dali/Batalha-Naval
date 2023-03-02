@@ -1,0 +1,22 @@
+14 18  384
+ CCCC B  H H  H   |1
+          H  H   P|2
+ P     DD     H  P|3
+  P  C      D    P|4   aqui pode vir porcaria.
+H  P  C   D  D S P|5   A função le_ate_barra_n
+ H  P  C  D      P|6   pula este lixo todo.
+H    P  C   CCCC  |7
+  S       C       |8
+         C  S H H |9
+ PPPPP  C      H  |10
+       C  D      S|11
+    D    D   DD   |12
+ H  D  D          |13
+H H   D  S  PPPPP |14
+....*....*....*....* Esta e uma reguinha
+
+ARQUIVO: MAPA3.DAT
+
+Note que as embarcações não se encostam.
+A única exceção é o barco que pode enconstar
+nas demais embarcações.
